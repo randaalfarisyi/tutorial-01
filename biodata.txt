@@ -1,3 +1,4 @@
 NPM : 1606877250
 Nama : Randa Alfarisyi
 Jurusan : Sistem Informasi
+Angkatan : 2016
